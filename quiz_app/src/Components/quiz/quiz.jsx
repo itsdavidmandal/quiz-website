@@ -13,6 +13,8 @@ const Quiz = () => {
             <li>LAN cable </li>
             <li>Pendrive</li>
         </ul>
+        <button>Next</button>
+        <div className="index"> 1 of 5 questions</div>
       
     </div>
   )
